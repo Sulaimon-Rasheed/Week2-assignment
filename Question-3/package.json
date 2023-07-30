@@ -1,0 +1,11 @@
+{
+  "name": "question-3",
+  "version": "1.0.0",
+  "description": "Creating a server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sulaimon Rasheed",
+  "license": "ISC"
+}
